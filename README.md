@@ -1,7 +1,7 @@
 # Meu Portfolio
 ## created with CodeSandbox
 
-## Tecnologias
+## Tecnologias utilizadas:
 - HTML
 - CSS
 - Git e Github
