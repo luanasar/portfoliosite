@@ -1,9 +1,5 @@
 # Portfolio SIte
-created with CodeSandbox
-![preview](./_C__Users_grupo_Downloads_portfoliosite-main_portfoliosite-main_index.html.png)
-<!-- >Trilha Explorer -->
-
-<!-- [Clique aqui para acessar](https://luanasar.github.io/NLW/)
+## created with CodeSandbox
 
 ## Tecnologias
 - HTML
@@ -12,4 +8,7 @@ created with CodeSandbox
 
 ## Contato
 
-luana_sar@hotmail.com -->
+luana_sar@hotmail.com
+
+
+![Preview](https://user-images.githubusercontent.com/57449112/201171604-f8624eea-bf4a-4605-9718-15db98cc3ccb.png)
